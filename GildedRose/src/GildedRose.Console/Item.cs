@@ -20,5 +20,10 @@ namespace GildedRose.Console
             this.sellIn = sellIn;
             this.quality = quality;
         }
+
+        public override String ToString()
+        {
+            return $"{name}, {sellIn}, {quality}";
+        }
     }
 }
