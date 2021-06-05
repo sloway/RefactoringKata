@@ -1,3 +1,11 @@
+
+This project is modified version from original projects  
+https://github.com/NotMyself/GildedRose  
+https://github.com/emilybache/GildedRose-Refactoring-Kata/tree/main/csharp  
+---
+
+
+
 # Gilded Rose Refactoring Kata
 
 Hi and welcome to team Gilded Rose. As you know, we are a small inn with a 
